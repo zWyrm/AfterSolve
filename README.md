@@ -1,6 +1,6 @@
 # AfterSolve
 
-**AfterSolve** is a one-stop platform for competitive programmers to upsolve problems from contests they actually participated in, through a minimalistic, responsive interface.
+**AfterSolve** is a one-stop platform used by 200+ active competitive programmers to upsolve problems from contests they actually participated in, through a minimalistic, responsive interface.
 
 The app fetches real-time data from the Codeforces API and presents it intuitively, making it easier to explore contests and problems without navigating the Codeforces website directly.
 
